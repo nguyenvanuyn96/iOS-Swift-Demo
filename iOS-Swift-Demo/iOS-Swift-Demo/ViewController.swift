@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  iOS-Swift-Demo
 //
-//  Created by Nguyen Van Uy on 5/23/18.
+//  Created by Nguyen Van Uy on 5/23/18. Edited by HomyLaundry.vn
 //  Copyright © 2018 Uy Nguyen Van. All rights reserved.
 //
 
