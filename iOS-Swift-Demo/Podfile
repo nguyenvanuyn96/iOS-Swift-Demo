@@ -8,6 +8,5 @@ target 'iOS-Swift-Demo' do
   use_frameworks!
 
   # Pods for iOS-Swift-Demo
-  pod 'SnapKit', '~> 4.0'
-
+  pod 'SnapKit'
 end
